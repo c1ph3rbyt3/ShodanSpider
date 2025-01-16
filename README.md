@@ -9,8 +9,8 @@
 
 1. Clona el repositorio o descarga el script:
    ```bash
-   git clone https://github.com/tu-repositorio/shodan-spider.git
-   cd shodan-spider
+   git clone https://github.com/c1ph3rbyt3/ShodanSpider.git
+   cd ShodanSpider
    ```
 
 2. Asegúrate de tener Python instalado (versión 3.7 o superior).
