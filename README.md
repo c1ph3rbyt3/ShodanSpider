@@ -1,7 +1,7 @@
 
-# ShodanSpider v2.0
+# 5h0d4n5p1d3r
 
-**ShodanSpider** es una herramienta diseñada para buscar información en Shodan de manera eficiente. Este script facilita consultas específicas y puede guardar los resultados en un archivo.
+**5h0d4n5p1d3r** es una herramienta diseñada para buscar información en Shodan de manera eficiente. Este script facilita consultas específicas y puede guardar los resultados en un archivo.
 
 ---
 
